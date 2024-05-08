@@ -1,6 +1,6 @@
 # peliculas
 
-A new Flutter project.
+app de peliculas en flutter actualizado a flutter 3 consumiendo apis de peliculas mostrandola con providers
 
 ## Getting Started
 
